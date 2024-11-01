@@ -3,12 +3,12 @@
         {
             "name": "ExampleFarmable",
             "price": 100,
-            "image": "example_image.png"
+            "image_url": "https://raw.githubusercontent.com/GrowtopiaItems/GrowtopiaItems/refs/heads/main/chnd.png"
         },
         {
             "name": "AnotherFarmable",
             "price": 200,
-            "image": "another_image.png"
+            "image_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/another_image.png"
         }
     ]
 }
