@@ -2,7 +2,7 @@
     "products": [
         {
             "name": "Chandelier Block",
-            "price_range": "30-35",
+            "price_range": "30 to 35",
             "units_per_world_lock": 1,
             "image_url": "https://raw.githubusercontent.com/GrowtopiaItems/GrowtopiaItems/refs/heads/main/chnd.png"
         },
@@ -14,7 +14,7 @@
         },
         {
             "name": "Example Item",
-            "price_range": "20-25",
+            "price_range": "20 to 25",
             "units_per_world_lock": 1,
             "image_url": "https://raw.githubusercontent.com/GrowtopiaItems/GrowtopiaItems/refs/heads/main/chnd.png"
         }
