@@ -1,0 +1,14 @@
+{
+    "products": [
+        {
+            "name": "ExampleFarmable",
+            "price": 100,
+            "image": "example_image.png"
+        },
+        {
+            "name": "AnotherFarmable",
+            "price": 200,
+            "image": "another_image.png"
+        }
+    ]
+}
