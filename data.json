@@ -4,19 +4,19 @@
             "name": "Chandelier Block",
             "price_range": "30-35",
             "units_per_world_lock": 1,
-            "image_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/chandelier_block.png"
+            "image_url": "https://raw.githubusercontent.com/GrowtopiaItems/GrowtopiaItems/refs/heads/main/chnd.png"
         },
         {
             "name": "AnotherFarmable",
             "price_range": "50",
             "units_per_world_lock": 1,
-            "image_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/another_image.png"
+            "image_url": "https://raw.githubusercontent.com/GrowtopiaItems/GrowtopiaItems/refs/heads/main/chnd.png"
         },
         {
             "name": "Example Item",
             "price_range": "20-25",
             "units_per_world_lock": 1,
-            "image_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/example_item.png"
+            "image_url": "https://raw.githubusercontent.com/GrowtopiaItems/GrowtopiaItems/refs/heads/main/chnd.png"
         }
     ]
 }
