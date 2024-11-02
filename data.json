@@ -3,18 +3,18 @@
         "item_name": "Diamond Lock",
         "amount": "30-35",
         "price_per_amount": 1,
-        "currency": "World Locks"
+        "currency": "World Lock"
     },
     {
         "item_name": "Angel Wings",
         "amount": "10",
         "price_per_amount": 1,
-        "currency": "World Locks"
+        "currency": "World Lock"
     },
     {
         "item_name": "Dragon Hand",
         "amount": "5-10",
         "price_per_amount": 2,
-        "currency": "World Locks"
+        "currency": "World Lock"
     }
 ]
