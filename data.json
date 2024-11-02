@@ -8,7 +8,7 @@
     {
         "item_name": "Chandelier Seed",
         "amount": "7-9",
-        "price_per_amount": 0,
+        "price_per_amount": 1,
         "currency": "World Lock"
     }
 ]
