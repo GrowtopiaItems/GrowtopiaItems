@@ -1,13 +1,13 @@
 [
     {
         "item_name": "Chandelier Block",
-        "amount": "30-35",
+        "amount": "30-36",
         "price_per_amount": 1,
         "currency": "World Lock"
     },
     {
         "item_name": "Chandelier Seed",
-        "amount": "7-9",
+        "amount": "7-8",
         "price_per_amount": 1,
         "currency": "World Lock"
     }
